@@ -5,10 +5,10 @@ Welcome to the GitHub repository for my Nike-themed landing page created using R
 
 Key Features 🚀:
 
-👉 Built with React.js for efficient component-based UI development.
-👉 Styled using Tailwind CSS, ensuring rapid and consistent styling with utility classes.
-👉 Dynamic content rendering that provides a captivating visual experience.
-👉 Fully responsive layout, adapting to different devices and orientations.
+- 👉 Built with React.js for efficient component-based UI development.
+* 👉 Styled using Tailwind CSS, ensuring rapid and consistent styling with utility classes.
++ 👉 Dynamic content rendering that provides a captivating visual experience.
+- 👉 Fully responsive layout, adapting to different devices and orientations.
 
 👀 Explore the code to see how React.js components are structured and how Tailwind CSS classes are utilized to style the page. Whether you're a React.js enthusiast or simply interested in modern web development techniques, this project offers valuable insights and a foundation for creating engaging and responsive landing pages.
 
