@@ -1,4 +1,4 @@
-"Nike Website Landing Page - Vite + React.js & Tailwind CSS 😀
+Nike Website Landing Page - Vite + React.js & Tailwind CSS 😀
 
 Hello 👋,
 Welcome to the GitHub repository for my Nike-themed landing page created using React.js + Vite and Tailwind CSS. This project showcases a dynamic and visually appealing landing page inspired by the iconic Nike brand. Leveraging the power of React.js, the page offers seamless interactivity and a smooth user experience. The responsive design ensures the website looks stunning across various devices and screen sizes.
